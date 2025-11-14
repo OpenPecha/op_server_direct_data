@@ -1,0 +1,2 @@
+op_server_uploader @git+https://github.com/OpenPecha/op_server_uploader.git
+milvus_segment_generator @git+https://github.com/OpenPecha/milvus_segment_generator.git

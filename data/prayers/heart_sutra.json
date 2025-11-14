@@ -1,0 +1,181 @@
+{
+    "source": {
+        "bo": {
+            "copyright": "Public domain",
+            "license": "CC BY-NC",
+            "link": "https://www.bdrc.io/"
+        },
+        "en": {
+            "copyright": "Public domain",
+            "license": "CC BY-NC",
+            "link": "https://www.lotsawahouse.org/"
+        },
+        "lzh": {
+            "copyright": "Public domain",
+            "license": "CC BY-NC",
+            "link": "https://www.bdrc.io/"
+        }
+    },
+    "title": {
+        "bo": "ཤེས་རབས་སྙིང་པོ།",
+        "en": "Heart Sutra",
+        "lzh": "心經"
+    },
+    "text": [
+        {
+            "bo": "བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ། །",
+            "en": "The Blessed Lady, Heart of the Perfection of Wisdom.",
+            "lzh": "般若波羅密多心經"
+        },
+        {
+            "bo": "༄༅། །​རྒྱ་གར་སྐད་དུ། བྷ་ག་བ་ཏི་པྲ་ཛྙ་པ་ར་མི་ཏཱྀ་ཧྲད་ཡ།",
+            "en": "In the Indian language: The Heart of the Blessed Perfection of Wisdom.",
+            "lzh": "印度語（梵語）裡 般若波羅蜜多心經"
+        },
+        {
+            "bo": "བོད་སྐད་དུ། བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ།",
+            "en": "In Tibetan, The Heart of the Blessed Wisdom Goddess.",
+            "lzh": "藏語裡 般若波羅蜜多心經"
+        },
+        {
+            "bo": "བམ་པོ་གཅིག་གོ །​",
+            "en": "Section one.",
+            "lzh": "第一卷"
+        },
+        {
+            "bo": "བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་དུ་ཕྱིན་པ་ལ་ཕྱག་འཚལ་ལོ། །",
+            "en": "Homage to the Blessed Mother, Perfection of Wisdom.",
+            "lzh": "敬禮薄伽梵母般若波羅蜜多"
+        },
+        {
+            "bo": "​འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།",
+            "en": "I once heard these words.",
+            "lzh": "如是我聞，一時"
+        },
+        {
+            "bo": "བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་བྱ་རྒོད་ཕུང་པོའི་རི་ལ་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། ​བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།",
+            "en": "The Buddha was staying on Vulture Peak Mountain, in the city of Rajagriha, with many monks and many bodhisattvas.",
+            "lzh": "薄伽梵 住王舍城 鷲峰山中，與大苾蒭眾 及諸菩薩摩訶薩俱"
+        },
+        {
+            "bo": "དེའི་ཚེ་བཅོམ་ལྡན་འདས་ཟབ་མོ་སྣང་བ་ཞེས་བྱ་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་ཀྱི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་སོ། །",
+            "en": "At that time, the Blessed One entered into the meditative absorption called 'Profound Luminosity,' which is part of a Dharma teaching.",
+            "lzh": "爾時世尊等入甚深明瞭三摩地法之異門"
+        },
+        {
+            "bo": "​ཡང་དེའི་ཚེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོའི་སྤྱོད་པ་ཉིད་ལ་རྣམ་པར་བལྟ་ཞིང་།",
+            "en": "Furthermore, at that time, the Great Noble Bodhisattva Avalokiteshvara thoroughly observed the profound practice of the Perfection of Wisdom.",
+            "lzh": "複于爾時，觀自在菩薩摩訶薩 行深般若波羅蜜多時"
+        },
+        {
+            "bo": "ཕུང་པོ་ལྔ་པོ་དེ་དག་ལ་ཡང་རང་བཞིན་གྱིས་སྟོང་པར་རྣམ་པར་བལྟའོ། །",
+            "en": "Furthermore, one should fully recognize that the five aggregates are empty of any inherent existence.",
+            "lzh": "觀察照見五蘊體性悉皆是空"
+        },
+        {
+            "bo": "​དེ་ནས་སངས་རྒྱས་ཀྱི་མཐུས། ​ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་བྱང་ཆུབ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །​",
+            "en": "Then, empowered by the Buddha, the Venerable Shariputra spoke these words to the Great Noble Bodhisattva Avalokiteshvara.",
+            "lzh": "時具壽舍利子承佛威力 舍利子 觀自在菩薩摩訶薩曰"
+        },
+        {
+            "bo": "རིགས་ཀྱི་བུ་གང་ལ་ལ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོའི་སྤྱོད་པ་སྤྱད་པར་འདོད་པ་དེས་ཇི་ལྟར་བསླབ་པར་བྱ། དེ་སྐད་ཅེས་སྨྲས་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་ཚེ་དང་ལྡན་པ་ཤཱ་ར་དྭ་ཏའི་བུ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །​ཤཱ་རིའི་བུ་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོའི་སྤྱོད་པ་སྤྱད་པར་འདོད་པ་དེས་འདི་ལྟར་རྣམ་པར་བལྟ་བར་བྱ་སྟེ། ​ཕུང་པོ་ལྔ་པོ་དེ་དག་ཀྱང་རང་བཞིན་གྱིས་སྟོང་པར་རྣམ་པར་ཡང་དག་པར་རྗེས་སུ་བལྟའོ། །",
+            "en": "Anyone who wishes to engage in the profound practice of the perfection of wisdom, how should they train? After this was asked, the great Bodhisattva Avalokiteshvara said to the venerable Shariputra: 'Shariputra, any noble son or noble daughter who wishes to engage in the profound practice of the perfection of wisdom should contemplate in this way: they should truly see that even the five aggregates are by their very nature empty.'",
+            "lzh": "善男子 欲修行甚深般若波羅蜜多者 複當云何修學 作是語已 觀自在菩薩摩訶薩答 具壽舍利子言 舍利子 善男子 善女人等 欲修行甚深般若波羅蜜多者 彼應如是觀察 五蘊本性皆空"
+        },
+        {
+            "bo": "​གཟུགས་སྟོང་པའོ། །སྟོང་པ་ཉིད་གཟུགས་སོ། །",
+            "en": "Form is emptiness. Emptiness is form.",
+            "lzh": "色即是空 空即是色"
+        },
+        {
+            "bo": "​གཟུགས་ལས་སྟོང་པ་ཉིད་གཞན་མ་ཡིན། སྟོང་པ་ཉིད་ལས་ཀྱང་གཟུགས་གཞན་མ་ཡིན་ནོ། །",
+            "en": "Form is not separate from emptiness; Emptiness, too, is not separate from form.",
+            "lzh": "空不異色 色不異空"
+        },
+        {
+            "bo": "​དེ་བཞིན་དུ་ཚོར་བ་དང་། ​འདུ་ཤེས་དང་། འདུ་བྱེད་དང་། རྣམ་པར་ཤེས་པ་རྣམས་སྟོང་པའོ། །",
+            "en": "Likewise, feelings, perceptions, mental formations, and consciousness are all empty.",
+            "lzh": "如是 受 想 行 識亦複皆空"
+        },
+        {
+            "bo": "​ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་དེ། མཚན་ཉིད་མེད་པ། མ་སྐྱེས་པ། ​མ་འགགས་པ། དྲི་མ་མེད་པ། དྲི་མ་དང་བྲལ་བ་མེད་པ། ​བྲི་བ་མེད་པ། གང་བ་མེད་པའོ། །",
+            "en": "Shariputra, therefore, all phenomena are emptiness, without characteristics, unborn, unceased, beyond purity and impurity, neither diminishing nor increasing.",
+            "lzh": "舍利子 是故 諸法皆空 空相 不生 不滅 不垢 不離垢 不減 不增"
+        },
+        {
+            "bo": "​ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་སྟོང་པ་ཉིད་ལ་གཟུགས་མེད། ཚོར་བ་མེད། ​འདུ་ཤེས་མེད། འདུ་བྱེད་མེད། རྣམ་པར་ཤེས་པ་མེད། མིག་མེད། རྣ་བ་མེད། སྣ་མེད། ལྕེ་མེད། ལུས་མེད། ཡིད་མེད །གཟུགས་མེད། སྒྲ་མེད། དྲི་མེད། རོ་མེད། རེག་བྱ་མེད། ཆོས་མེད་དོ། །",
+            "en": "Shariputra, therefore, in emptiness, there is no form, no feeling, no perception, no mental formations, and no consciousness. There is no eye, no ear, no nose, no tongue, no body, and no mind. There is no visible form, no sound, no smell, no taste, no touch, and no mental object.",
+            "lzh": "舍利子 是故 空性之中無色 無受 無想 無行 無識 無眼 無耳 無鼻 無舌 無身 無意 無色 無聲 無香 無味 無觸 無法"
+        },
+        {
+            "bo": "​མིག་གི་ཁམས་མེད་པ་ནས་ཡིད་ཀྱི་ཁམས་མེད། ཡིད་ཀྱི་རྣམ་པར་ཤེས་པའི་ཁམས་ཀྱི་བར་དུ་ཡང་མེད་དོ། །",
+            "en": "From the absence of the eye's domain to the absence of the mind's domain, even up to the domain of mind-consciousness, nothing exists.",
+            "lzh": "無眼界 無意界 無意識界"
+        },
+        {
+            "bo": "​མ་རིག་པ་མེད། ​མ་རིག་པ་ཟད་པ་མེད་པ་ནས་རྒ་ཤི་མེད། ​རྒ་ཤི་ཟད་པའི་བར་དུ་ཡང་མེད་དོ། ། སྡུག་བསྔལ་བ་དང་། ཀུན་འབྱུང་བ་དང་། འགོག་པ་དང་། ལམ་མེད། ཡེ་ཤེས་མེད། ཐོབ་པ་མེད། མ་ཐོབ་པ་ཡང་མེད་དོ། །",
+            "en": "There is no ignorance, no cessation of ignorance; there is no aging and death, nor any cessation of aging and death. There is no suffering, origin, cessation, or path; no wisdom, no attainment, and no non-attainment.",
+            "lzh": "無無明 亦無無明盡 無老死 亦無老死盡。 是故 無苦 集 滅 及 無道 無智 無得 亦無不得"
+        },
+        {
+            "bo": "​ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཐོབ་པ་མེད་པའི་ཕྱིར། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བརྟེན་ཅིང ་གནས་ཏེ།",
+            "en": "Shariputra, therefore, since Bodhisattvas have nothing to truly attain, they dwell relying on the perfection of wisdom.",
+            "lzh": "舍利子 是故 諸菩薩眾 以無所得故 依止般若波羅蜜多"
+        },
+        {
+            "bo": "སེམས་ལ་སྒྲིབ་པ་མེད་པས་སྐྲག་པ་མེད་དེ། ཕྱིན་ཅི་ལོག་ལས་ཤིན་ཏུ་འདས་ནས་མྱ་ངན་ལས་འདས་པར་མཐར་ཕྱིན་ཏོ། །",
+            "en": "When the mind is free from obscurations, there is no fear. Having utterly transcended delusion, one ultimately achieves perfect liberation.",
+            "lzh": "心無障礙 無有恐怖 超過顛倒 究竟涅槃"
+        },
+        {
+            "bo": "​དུས་གསུམ་དུ་རྣམ་པར་བཞུགས་པའི་སངས་རྒྱས་ཐམས་ཅད་ཀྱང་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བརྟེན་ནས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ། །",
+            "en": "All Buddhas, dwelling throughout time, awakened to unsurpassed, perfect enlightenment by relying on the perfection of wisdom.",
+            "lzh": "三世諸佛 依般若波羅蜜多故 證得無上正等菩提"
+        },
+        {
+            "bo": "​དེ་ལྟ་བས་ན་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྔགས། རིག་པ་ཆེན་པོའི་སྔགས། བླ་ན་མེད་པའི་སྔགས། མི་མཉམ་པ་དང་མཉམ་པའི་སྔགས། སྡུག་བསྔལ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པའི་སྔགས། མི་རྫུན་པས་ན་བདེན་པར་ཤེས་པར་བྱ་སྟེ། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྔགས་སྨྲས་པ།",
+            "en": "Therefore, the mantra of transcendent wisdom, the mantra of great awareness, the unsurpassed mantra, the incomparable and equal mantra, the mantra that completely pacifies all suffering—because it is not false, it should be known as true. Thus was spoken the mantra of the perfection of wisdom.",
+            "lzh": "是故當知般若波羅蜜多大密咒者 是大明咒 是無上咒 是無等等咒 能除一切諸苦之咒 真實不虛 故說般若波羅蜜多咒"
+        },
+        {
+            "bo": "ཏདྱ་ཐཱ། ག་ཏེ་ག་ཏེ་པཱ་ར་ག་ཏེ། པཱ་ར་སཾ་ག་ཏེ། བོ་དྷི་སྭ་ཧཱ།",
+            "en": "Thus it is: Journeying onward, gone, gone beyond, Gone completely past all limitations, To ultimate awakening, so be it!",
+            "lzh": "唵 揭諦揭諦 波羅揭諦 波羅僧揭諦 菩提薩婆訶"
+        },
+        {
+            "bo": "ཤཱ་རིའི་བུ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་ལྟར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོ་ལ་བསླབ་པར་བྱའོ། །",
+            "en": "Śāriputra, a great spiritual hero should thus train in the profound wisdom that transcends all.",
+            "lzh": "舍利子 菩薩摩訶薩 應如是修學甚深般若波羅蜜多"
+        },
+        {
+            "bo": "​དེ་ནས་བཅོམ་ལྡན་འདས་ཏིང་ངེ་འཛིན་དེ་ལས་བཞེངས་ཏེ། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོས་འཕགས་པ ་སྤྱན་རས་དབང་ཕྱུག་ལ་ལེགས་སོ་ཞེས་བྱ་བ་བྱིན་ནས། ལེགས་སོ་ལེགས་སོ། རིགས་ཀྱི་བུ་དེ་དེ་བཞིན་ནོ། །​",
+            "en": "Then the Blessed One arose from that deep meditation, and bestowed upon the Bodhisattva, the Great Being, Noble Avalokiteshvara, the words of praise, 'Well done! Well done!' 'Son of noble family, that is exactly so.'",
+            "lzh": "爾時世尊從彼定起 告聖者觀自在菩薩摩訶薩曰 善哉 善哉 善哉 善男子 如是"
+        },
+        {
+            "bo": "རིགས་ཀྱི་བུ་དེ་དེ་བཞིན་ཏེ། ཇི་ལྟར་ཁྱོད་ཀྱིས་བསྟན་པ་བཞིན་དུ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོ་ལ་སྤྱད་པར་བྱ་སྟེ།",
+            "en": "Noble child, it is indeed so: you should engage in the profound perfection of wisdom, just as you have been instructed.",
+            "lzh": "善男子 如是 如汝所說 彼當如是修學般若波羅蜜多"
+        },
+        {
+            "bo": "དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱང་རྗེས་སུ་ཡི་རང་ངོ་། །",
+            "en": "The Buddhas also rejoice.",
+            "lzh": "一切如來亦當隨喜"
+        },
+        {
+            "bo": "​བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས།",
+            "en": "After the Blessed One had spoken thus.",
+            "lzh": "薄伽梵說是語已"
+        },
+        {
+            "bo": "ཚེ་དང་ལྡན་པ་ཤཱ་ར་དྭ་ཏིའི་བུ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་དང་། ​ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །",
+            "en": "The venerable Shariputra, and the great Bodhisattva Avalokiteshvara, together with the complete assembly, and all the beings of the world—gods, humans, asuras, and gandharvas— rejoiced, and they greatly praised the teaching spoken by the Blessed One.",
+            "lzh": "具壽舍利子 聖者觀自在菩薩摩訶薩 一切世間 神 人及 阿修羅及 乾闥婆等 聞佛所說 皆大歡喜 薄伽梵傳授 讚頌"
+        },
+        {
+            "bo": "​འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ་རྫོགས་སོ། །​",
+            "en": "The Heart of the Noble Perfection of Wisdom is completed.",
+            "lzh": ""
+        }
+    ]
+}
