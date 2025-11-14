@@ -1,11 +1,12 @@
-from op_server_uploader.text import upload_text
-from op_server_uploader.instance import upload_instance, upload_add_search_segmentation, upload_translation_instance
-
-import csv
 import json
 
 import datetime
 from pathlib import Path
+
+
+from op_server_uploader.text import upload_text
+from op_server_uploader.instance import upload_instance, upload_add_search_segmentation, upload_translation_instance
+
 
 PRAYER_CATEGORY_ID = "A6uBwcy0ZvFj1GfRWThAn"
 
